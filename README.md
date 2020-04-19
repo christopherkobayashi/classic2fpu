@@ -14,5 +14,8 @@ The oscillator is a 40MHz standard oscillator, Mouser #520-2200B-400 or similar.
 
 ## Circuit board fabrication details
 
+v4.9 is a four-layer board.
+
 The .pcb file is a DesignSpark board file.
-The .zip file are the Gerbers that work without modification with PCBway.
+
+The .zip file contains the Gerbers for PCB fabriation.  These work as-is with PCBway.
