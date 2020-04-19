@@ -1,4 +1,4 @@
-# classic2fpu
+# Macintosh Classic II FPU / ROM board
 
 The .pcb file is a DesignSpark board file.
 
