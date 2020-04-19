@@ -1,6 +1,6 @@
 # Macintosh Classic II FPU / ROM board
 
-Design by Joshua Ryan <360alaska@gmail.com>
+Design by Joshua Ryan (<360alaska@gmail.com>)
 
 ## Parts list
 
